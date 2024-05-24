@@ -1,27 +1,19 @@
-### Hi there 👋
+<h2>👋 Hola! Soy Luis Enrique </h2>
 
 <!--
 **Velasquez4701/Velasquez4701** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
-### 👨🏻‍💻 &nbsp; About Me
 
-👋 &nbsp; Hola, me llamo **Luis Enrique Velásquez**.\
-🌱 &nbsp; Uso los datos para crear soluciones para empresas y organizaciones.\
-🌟 &nbsp; Soy **analista de datos** con experiencia en análisis y visualización de datos, y desarrollo de herramientas de inteligencia de negocios.\
-🔍 &nbsp; Tengo conocimiento en **Microsoft SQL Server** y experiencia trabajando con **Python** y sus librerías necesarias para el análisis de datos (como pandas, NumPy, Matplotlib).
+### 👨🏻‍💻 &nbsp; Sobre mí
 
-🔧 &nbsp; Además, tengo una sólida comprensión y experiencia en:
+💡 &nbsp; Soy **analista de datos** con experiencia en análisis y visualización de datos, y desarrollo de herramientas de inteligencia de negocios.\
+🌱 &nbsp; Uso los datos para crear soluciones para empresas y organizaciones, donde puedo construir estrategias para potenciarlas.\
+🎓 &nbsp; Estoy terminando el Bootcamp de Data Analytics de Henry, sumando mas de 500 horas de prácticas en SQL, Python y PowerBi.\
+🔍 &nbsp; Tengo conocimiento en **Microsoft SQL Server**: Gestiono, analizo y optimizo la base de datos.\
+🔍 &nbsp; Tengo experiencia trabajando con **Python** y sus librerías necesarias para el análisis de datos (como pandas, NumPy, Matplotlib).
+
+
+### 🔧 &nbsp; Además, tengo comprensión y experiencia en:
 - **Algoritmos** y **Estructuras de Datos**
 - **Sistemas de Bases de Datos**
 - **Programación Orientada a Objetos (POO)**
